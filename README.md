@@ -21,8 +21,6 @@ Unlike traditional smart speakers, NEXA Spot is designed around three core princ
 * **Local-first**
 * **Privacy-first**
 
-No screens. No visual interface. Just natural voice interaction.
-
 ---
 
 ## Features
